@@ -56,5 +56,6 @@ Dynamic Filters: Interactive slicers for filtering data by quarter, state, and p
 
 🖼️ Dashboard Preview
 
+![Economics Sales Dashboard Preview](Dashboard.png)
 
 
